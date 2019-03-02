@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+つぐみギルドへようこそ
+====
 
-You can use the [editor on GitHub](https://github.com/tsugumi-guild/tsugumi-guild.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+つぐみギルドは、マルチプレイヤーゲームを中心に活動しているチーム(あるいはギルド、クラン)です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+主な活動
+----
 
-### Markdown
+### Overwatch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Blizzard Entertainmentが開発した6vs6のシューティングゲームです。ダメージ、サポート、タンクの3つの役割に分かれ、協力して戦うことが鍵となります。アクティブメンバーがよくプレイしているゲームでもあり、このギルドの文化に大きく影響しています。
 
-```markdown
-Syntax highlighted code block
+### Apex Legends
 
-# Header 1
-## Header 2
-### Header 3
+Respawn Entertainmentが開発し、Electronic Artsから公開された3人チームのバトルロイヤルシューティングゲームです。無料で遊べることもあり、ギルド内のプレイヤーが最も多いです(チームになれるのは3人までですが)。
 
-- Bulleted
-- List
+### Minecraft
 
-1. Numbered
-2. List
+Mojangによって開発されているサンドボックスゲームです。建築と探索を際限なく楽しめるゲーム性が特徴で、世界で二番目に売れたゲームと言われています。バージョン1.14がリリースされればまた活発になることが予想されます。
 
-**Bold** and _Italic_ and `Code` text
+### 言葉遊び
 
-[Link](url) and ![Image](src)
-```
+言葉遊びが好きなメンバーが多く、しばしば熱が入ります。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### その他
 
-### Jekyll Themes
+反社会的行為などでない限り活動に制限はなく、新しいゲームを始めてもよし、例えば音楽やプログラミングなどの話をしてもよし、もちろん身近なことについて議論してもよし…
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsugumi-guild/tsugumi-guild.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+活動媒体
+----
 
-### Support or Contact
+### Discord
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+テキストチャットおよび通話ができるプラットフォームです。リアルタイムに戦略を練ることが要求されるゲームではボイスチャンネルがよく使われます。
+
+### Google Drive(非公開)
+
+スプレッドシートに小ネタや攻略に関する情報などをまとめていますが、このGitHub Pagesに移すことも検討しています。
+
+メンバー紹介
+----
+
+### ふみ(fumieval)
+
+鳥好きHaskeller、そしてギルドの管理者。Overwatchでは専らシンメトラとレッキングボールを使用。レートは2900前後。
+
+ギルドに参加したい！
+----
+
+[Discordの招待リンク](https://discord.gg/fy9mZ7t)を公開しているので、お気軽にお立ち寄りください。メンバーを傷つけたり、秘密を侵したりしないことが参加条件です。
