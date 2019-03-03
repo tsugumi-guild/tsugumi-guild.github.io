@@ -1,6 +1,6 @@
 # ローカルでの開発
 
-参考: https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll
+## 環境のセットアップ
 
 __注意: コピペする際も一行ずつ実行すること！__
 
@@ -9,10 +9,15 @@ sudo gem install bundler
 git clone git@github.com:tsugumi-guild/tsugumi-guild.github.io
 cd tsugumi-guild.github.io
 bundle install
+```
+
+## プレビュー
+
+```
 bundle exec jekyll serve
 ```
 
-http://localhost:4000/　にアクセスするとプレビューできる。編集したファイルは自動的に反映される。
+http://localhost:4000/　にアクセスすると、アップロードすることなく手元で変更内容を確認できる。
 
 ## 変更をアップロード
 
