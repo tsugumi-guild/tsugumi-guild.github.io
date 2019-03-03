@@ -56,6 +56,12 @@ Mojangによって開発されているサンドボックスゲームです。�
 
 主にゲームをしています。Enjoy勢です。たまに本気を出しますが、そんなに強くないです。( 0w0)ﾉ ｳｪｰｲ
 
+### よっぴー（yoppy）
+
+生え際前線異常ありの焼酎大好きおじいちゃん。酔っぴーとも言う。
+"  Create a new branch for this commit and start a pull request. Learn more about pull requests."
+
+
 ギルドに参加したい！
 ----
 
