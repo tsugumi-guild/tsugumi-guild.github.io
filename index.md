@@ -59,7 +59,6 @@ Overwatchと言葉遊びをしています。基本的に実力は中の下で�
 ### よっぴー（yoppy）
 
 生え際前線異常ありの焼酎大好きおじいちゃん。酔っぴーとも言う。
-"  Create a new branch for this commit and start a pull request. Learn more about pull requests."
 
 
 ギルドに参加したい！
