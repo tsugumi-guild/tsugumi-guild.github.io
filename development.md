@@ -14,13 +14,16 @@ __注意: コピペする際も一行ずつ実行すること！__
 4. `C:/Users/ユーザー名/.sshにあるid_rsa.pub`を  https://github.com/settings/keys にコピー (SSH Keys)
 
 ```
-sudo gem install bundler
 git clone git@github.com:tsugumi-guild/tsugumi-guild.github.io
-cd tsugumi-guild.github.io
-bundle install
 ```
 
 ## プレビュー
+
+```
+gem install bundler
+cd tsugumi-guild.github.io
+bundle install
+```
 
 ```
 bundle exec jekyll serve
