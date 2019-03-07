@@ -12,6 +12,10 @@ section {
   padding: 2em;
 }
 
+details {
+  margin: 0 0 20px
+}
+
 @media ( min-width : 600px ){
   body {
     display: flex;
@@ -26,8 +30,4 @@ section {
     max-width: 300px;
   }
   
-  details {
-    margin: 0 0 20px
-  }
-
 }
